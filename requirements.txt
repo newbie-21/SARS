@@ -10,7 +10,7 @@ gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.65.2
 h5py==3.11.0
-huggingface-hub==0.25.0  # Updated version
+huggingface-hub==0.24.5
 idna==3.7
 keras==3.4.1
 libclang==18.1.1
