@@ -44,4 +44,5 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 Werkzeug==3.0.3
 wheel==0.43.0
+wordcloud==1.9.3
 wrapt==1.16.0
